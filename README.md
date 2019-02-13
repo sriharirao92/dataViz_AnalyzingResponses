@@ -6,3 +6,7 @@ The objective of the survey is to solicit feedback from subjects in order to eva
 Understand the effectivness and expressiveness of the Data/Task Abstraction component.
 Understand the effectiveness and epressiveness of the Visual Encoding/Interaction Idiom component.
 Process collected responses.
+
+You can see the rendered HTML here:
+
+http://htmlpreview.github.io/?https://github.com/sriharirao92/dataViz_AnalyzingResponses/blob/master/dataViz_AnalyzingResponses.html
