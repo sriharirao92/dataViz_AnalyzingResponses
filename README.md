@@ -10,3 +10,5 @@ Process collected responses.
 You can see the rendered HTML here:
 
 http://htmlpreview.github.io/?https://github.com/sriharirao92/dataViz_AnalyzingResponses/blob/master/dataViz_AnalyzingResponses.html
+<br> OR <br>
+http://pages.mtu.edu/~raghaven/Ex2/Ex2.html
